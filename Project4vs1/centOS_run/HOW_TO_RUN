@@ -1,0 +1,7 @@
+To run this program:
+
+In the terminal:
+
+ $ make all
+
+*NOTE: make all will clean before it runs the program, meaning it will get rid of binary files prior to rebuilding
